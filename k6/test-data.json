@@ -1,0 +1,26 @@
+[
+    {
+        "name": "test User 1",
+        "job": "leader"
+    },
+    {
+        "name": "test User 2",
+        "job": "zion resident"
+    },
+    {
+        "name": "test User 3",
+        "job": "consultant"
+    },
+    {
+        "name": "test User 4",
+        "job": "tech lead"
+    },
+    {
+        "name": "test User 5",
+        "job": "squad lead"
+    },
+    {
+        "name": "test User 6",
+        "job": "secretary"
+    }
+]
