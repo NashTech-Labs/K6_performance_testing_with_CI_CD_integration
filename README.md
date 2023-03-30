@@ -4,7 +4,9 @@ This template contains how to write scripts in k6 & integrate them with CI/CD. I
 # Technologies
 
 Tool : k6, Github Actions
+
 IDE : Visual Studio
+
 Programming Language : JavaSript
 
 # Integrate k6 with github Actions
